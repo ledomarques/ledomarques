@@ -7,7 +7,7 @@
 
 ### Sobre mim
 - 👀 Sou um Desenvolvedor iniciando minha jornada, buscando adquirir novas habilidades neste vasto mundo da programação.
-- 🤘 Minhas **_Hard Skills_** (nesse momento) são: Ruby, Rails, Python, C#, Javascript, CSS, HTML
+- 🤘 Minhas **_Hard Skills_** (nesse momento) são: Java, Spring, Ruby, Rails, Python, C#, Javascript, CSS, HTML
 - ✌️ Como minhas **_Soft Skills_** se destacam o comprometimento, trabalho em equipe, liderança e busca por novos desafios e conhecimentos 
 
 
